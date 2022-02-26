@@ -1,0 +1,22 @@
+[
+  {
+    "suit_id": 1,
+    "icon": "♦",
+    "color": "red"
+  },
+  {
+    "suit_id": 2,
+    "icon": "♣",
+    "color": "black"
+  },
+  {
+    "suit_id": 3,
+    "icon": "♥",
+    "color": "red"
+  },
+  {
+    "suit_id": 4,
+    "icon": "♠",
+    "color": "black"
+  }
+]

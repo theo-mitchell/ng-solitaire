@@ -1,0 +1,27 @@
+[
+  {
+    "power": 2,
+    "suit_id": 1,
+    "nominal_value": "2"
+  },
+  {
+    "power": 2,
+    "suit_id": 2,
+    "nominal_value": "2"
+  },
+  {
+    "power": 2,
+    "suit_id": 3,
+    "nominal_value": "2"
+  },
+  {
+    "power": 2,
+    "suit_id": 4,
+    "nominal_value": "2"
+  },
+  {
+    "power": 3,
+    "suit_id": 1,
+    "nominal_value": "3"
+  }
+]
